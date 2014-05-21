@@ -6,6 +6,10 @@ Tested up to: 3.9.1
 Stable tag: 1.0
 License: Public Domain
 
+Disables Wordpress' URL autocorrection guessing feature.
+
+== Description ==
+
 This plugin disables Wordpress' URL autocorrection guessing feature.
 If you for example enter the URL `http://www.myblog.com/proj` you won't be redirected
 to `http://www.myblog.com/project-2013` anymore.
