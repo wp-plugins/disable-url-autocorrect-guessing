@@ -3,6 +3,7 @@ Contributors: haukep, nacin
 Tags: redirect, autocorrect, url, canonical
 Requires at least: 2.3
 Tested up to: 3.9.1
+Stable tag: 1.0
 License: Public Domain
 
 This plugin disables Wordpress' URL autocorrection guessing feature.
