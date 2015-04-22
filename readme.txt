@@ -2,8 +2,8 @@
 Contributors: haukep, nacin
 Tags: redirect, autocorrect, url, canonical
 Requires at least: 2.3
-Tested up to: 4.0
-Stable tag: 1.0a
+Tested up to: 4.2
+Stable tag: 1.0b
 License: Public Domain
 
 Disables Wordpress' URL autocorrection guessing feature.
@@ -19,7 +19,7 @@ This plugin is based on a comment of nacin here: https://core.trac.wordpress.org
 == Installation ==
 
 1. Upload `disable-url-autocorrect-guessing.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
+2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Changelog ==
 
