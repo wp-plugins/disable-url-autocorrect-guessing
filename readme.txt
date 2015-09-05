@@ -2,8 +2,8 @@
 Contributors: haukep, nacin
 Tags: redirect, autocorrect, url, canonical
 Requires at least: 2.3
-Tested up to: 4.2
-Stable tag: 1.0b
+Tested up to: 4.3
+Stable tag: 1.0c
 License: Public Domain
 
 Disables Wordpress' URL autocorrection guessing feature.
